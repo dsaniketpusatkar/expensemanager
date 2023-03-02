@@ -1,0 +1,16 @@
+.Chart
+{
+    border: 3px solid black;
+    border-radius: 25px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 1.5rem;
+     margin-left: 30%;
+     margin-right :30%;
+     justify-content: center; 
+      margin-top: 20px; 
+      margin-bottom: 30px;
+      background-color: rgb(253 236 236);
+     box-shadow: 10px 10px 10px rgb(149 115 153);
+    padding: 10px;
+}

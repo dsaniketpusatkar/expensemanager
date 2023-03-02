@@ -1,0 +1,82 @@
+.formclass
+{
+    display: flex;
+    
+    flex-wrap: wrap;
+
+    font-size: 1.5rem;
+    /* border: 3px solid black;  */
+    border-radius: 25px;
+    font-weight:400;
+     /* box-shadow: 10px 10px 10px salmon;  */
+    margin-bottom: 5px;
+    color: black;
+    width: 100%;
+     justify-content: center; 
+    padding-left: 60px;
+    padding-right: 100px;
+
+    transition: all 3s ease-out;
+}
+.inputfromtextbox
+{
+    font-size: 1.5rem;
+    width: 50%;
+    margin: 5%;
+    text-align: center;
+    border-radius: 25px;
+    padding: 5px;
+    border: 3px solid black; 
+    
+}
+
+.dateinputfromtextbox
+{
+    font-size: 1.5rem;
+    width: 65%;
+    margin: 5%;
+    text-align: center;
+    border-radius: 25px;
+    padding: 5px;
+    
+    border: 3px solid black; 
+
+}
+
+
+.Title-heading
+{
+    color: rgb(7 19 69);
+    font-weight: bold;
+    font-size: 64px;
+
+  
+}
+
+
+.formsubmitbtn 
+{
+    font-size: 1.5rem;
+    
+    margin: 15px;
+    text-align: center;
+    background-color: rgb(210 198 222); 
+    color: rgb(7 19 69);
+    padding: 10px;
+    border: 2px solid rgb(70 19 20);
+    border-radius: 25px;
+    cursor: pointer;
+    position: relative;
+    margin-left: 95px ;
+
+
+
+}
+
+
+/* 
+.costdiv
+{
+    float: right;
+    border: 10px solid red;
+} */

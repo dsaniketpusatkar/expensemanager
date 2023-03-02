@@ -1,0 +1,13 @@
+.Expense
+{ 
+    font-size: 2rem;
+    /* box-shadow: 100px 100px 10px  rgb(161, 161, 37); */
+    /* border: 10px solid black; */
+    width:80%;
+    margin-left: 10%;
+  
+}
+.dateclass
+{
+    width:150px;
+}

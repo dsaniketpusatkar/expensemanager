@@ -1,0 +1,23 @@
+.expenses-filter { 
+    color: white; 
+    padding: 0 0.1rem; 
+   } 
+   
+   .expenses-filter__control { 
+    float: inline-end; 
+    width: 150%; 
+     align-items: center; 
+    justify-content: space-between; 
+    margin: 0.5rem 0; 
+   } 
+   
+ 
+   
+   .expenses-filter select { 
+    font-size: x-large; 
+    
+    padding: 0.2rem 0.2rem; 
+    font-weight: 100; 
+   border-radius: 6px; 
+   }
+   

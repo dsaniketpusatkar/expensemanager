@@ -1,0 +1,35 @@
+.datewrapper
+{
+    
+    /* border: 5px solid black; */
+    /* font-size: 1.5rem; */
+    
+    /* border: 5px solid red; */
+    margin: 1px;
+   
+    
+}
+.monthyear_tobe_flexed
+{
+    display: inline-grid;
+  flex-wrap: wrap;
+  text-align: center;
+}
+.datemonth
+{   
+    font-size: 1.2rem;
+  font-weight: bold;
+    
+}
+
+.dateyear
+{
+    font-size: 1.2rem; 
+    font-weight: bold;
+}
+
+.datenumber
+{
+    font-size: 2rem;
+    font-weight: bold;
+}
